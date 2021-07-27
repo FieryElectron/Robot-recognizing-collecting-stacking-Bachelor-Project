@@ -1,4 +1,4 @@
-# Robot-recognizing-collecting-stacking-Bachelor
+# Robot-recognizing-collecting-stacking-Bachelor-Project
 
 Cube Robot in Eurobot 2018
 
